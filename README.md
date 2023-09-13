@@ -5,6 +5,7 @@ Mateus Mantovani Araújo
 - Amante de tecnologia
 - Email para contato: mateusmantovanisaga55@gmail.com / mateusaraujo0603@gmail.com
 
-![java](https://github.com/Mmateus106/Mmateus106/assets/126684801/b3b1081d-e4a3-41f3-b522-d84dc2d3bfd9)
-![html5-original](https://github.com/Mmateus106/Mmateus106/assets/126684801/4d8b7599-5eb1-4a67-b221-9b94eb5ecce9)
-![css3-original](https://github.com/Mmateus106/Mmateus106/assets/126684801/e083c1c3-f337-4a8a-903b-b33737f7a8b2)
+
+![5968242](https://github.com/Mmateus106/Mmateus106/assets/126684801/d22a65f1-181f-45da-b42c-5c63bad6869d)
+![java](https://github.com/Mmateus106/Mmateus106/assets/126684801/60566a42-b56c-4d1e-9ccb-3996ef0ddb62)
+![5352-html5_102567](https://github.com/Mmateus106/Mmateus106/assets/126684801/483d34f3-8679-4ede-a032-9482179e4e29)
