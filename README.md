@@ -17,7 +17,7 @@
 ## Tecnologias que mais utilizo
 <div align="center"><br>
   <a href="https://github.com/Mmateus106">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmateus106&layout=compact&theme=tokyonight"/>
+  
 </div>
 
 
