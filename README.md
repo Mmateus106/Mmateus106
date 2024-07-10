@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Futuro desenvolvedor Full Stack<br>Cursando Análise e Desenvolvimento de Sistemas na FIAP<br>Amante de tecnologia<br>Email para contato: mateusmantovanisaga55@gmail.com / mateusaraujo0603@gmail.com</p>
+<p align="left">Futuro desenvolvedor Full Stack<br>Cursando Análise e Desenvolvimento de Sistemas na FIAP<br>Amante de tecnologia<br>Email para contato: mateusmantovanisaga55@gmail.com / mateusaraujo0603@gmail.com<br>Para mais informações, meu Currículo: https://github.com/Mmateus106/Portfolio</p>
 
 ###
 
