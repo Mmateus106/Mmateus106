@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Linguagens que eu mais utilizo:</p>
+<p align="left">Liguagens e Softwares que mais utilizo:</p>
 
 ###
 
